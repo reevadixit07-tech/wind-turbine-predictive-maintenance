@@ -1,0 +1,7 @@
+Farm,Component,Failure Events,ROC-AUC (RF),PR-AUC (RF),ROC-AUC (IsoForest)
+Wind Farm B (Main Bearing),Main/Rotor Bearing,3,0.711,0.024,0.569
+Wind Farm B (Main Bearing),Transformer,3,0.462,0.011,0.45
+Wind Farm A (Multi-Component),Gearbox,3,0.929,0.082,0.404
+Wind Farm A (Multi-Component),Generator,2,0.457,0.008,0.464
+Wind Farm A (Multi-Component),Hydraulic,6,0.652,0.033,0.527
+Wind Farm A (Multi-Component),Transformer,1,0.723,0.007,0.486

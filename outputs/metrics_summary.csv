@@ -1,0 +1,9 @@
+Farm,Model,PR-AUC,ROC-AUC,Recall @ 1% False Alarm,False Alarm Rate
+Wind Farm B (Main Bearing),Random Baseline,0.028,0.5,0.01,0.01
+Wind Farm B (Main Bearing),Isolation Forest (Unsupervised),0.028,0.517,0.0,0.01
+Wind Farm B (Main Bearing),Logistic Regression,0.028,0.475,0.006,0.01
+Wind Farm B (Main Bearing),Random Forest (30-Day),0.034,0.602,0.0,0.01
+Wind Farm A (Multi-Component),Random Baseline,0.04,0.5,0.01,0.01
+Wind Farm A (Multi-Component),Isolation Forest (Unsupervised),0.038,0.482,0.008,0.01
+Wind Farm A (Multi-Component),Logistic Regression,0.06,0.648,0.014,0.01
+Wind Farm A (Multi-Component),Random Forest (30-Day),0.09,0.686,0.029,0.01
